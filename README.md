@@ -3,7 +3,7 @@ Just cause you got the monkey off your back doesn't mean the circus has left tow
 
 Exploring the world of cybersecurity and infosec. 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hyperlobster.bsky.social) 
 
 # 💻 Tech Stack:
